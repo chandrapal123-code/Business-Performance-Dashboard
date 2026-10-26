@@ -49,3 +49,10 @@ This project analyzes business sales, costs, gross profit, and gross margin from
    * Treated scenarios as hypothetical calculations, not guaranteed savings.
 * Power BI dashboard
    * Presented KPI cards, annual and monthly trends, product profitability, product-mix comparisons and cost scenarios.
+### Key Findings
+        | Metric | Reported value |
+       |---|---:|
+       | Total Sales | $141,783.63 |
+       | Total Cost | $48,340.83 |
+       | Total Gross Profit | $93,442.80 |
+       | Overall Gross Margin | Approximately 65.91% |
