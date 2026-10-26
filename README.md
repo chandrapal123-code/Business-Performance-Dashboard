@@ -72,4 +72,11 @@ This project analyzes business sales, costs, gross profit, and gross margin from
    * Other division: Reported gross margin of approximately 44.84%.
    * Lickable Wallpaper: Reported sales share increased from 2.76% in 2022 to 6.22% in 2024, with a reported margin of 50%. Validate these figures and the mix          calculation before concluding that this product contributed to the overall margin change
 
+ ### Illustrative Cost-Reduction Scenarios
+* These scenarios use reported 2024 values: sales of $46,968.11, cost of $16,017.32 and gross profit of $30,950.79
   
+                 | Cost reduction | Estimated savings | Scenario gross profit | Scenario margin |
+                 | 0% | $0.00 | $30,950.79 | 65.90% |
+                 | 2% | $320.35 | $31,271.14 | 66.58% |
+                 | 5% | $800.87 | $31,751.66 | 67.60% |
+                 | 10% | $1,601.73 | $32,552.52 | 69.31% |
