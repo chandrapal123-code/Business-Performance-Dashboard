@@ -26,7 +26,7 @@ This project analyzes business sales, costs, gross profit, and gross margin from
 
 ### Project Workflow
  * Data loading and inspection
-- Loaded the dataset and reviewed rows, columns, data types and descriptive statistics.
+   * Loaded the dataset and reviewed rows, columns, data types and descriptive statistics.
 *  Data cleaning and validation
 - Checked missing values and duplicate records.
 - Validated date fields and reviewed implausible shipping durations.
