@@ -14,7 +14,7 @@ This project analyzes business sales, costs, gross profit, and gross margin from
 * Model hypothetical cost-reduction scenarios.
 * Build an interactive Power BI dashboard and provide business recommendations.
 ### Tools & Technologies
-    * Tool
+    * Tool 
     * Python
     * Liberarys
     * Jupyter Notebook
