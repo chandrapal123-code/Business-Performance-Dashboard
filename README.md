@@ -110,9 +110,9 @@ This project analyzes business sales, costs, gross profit, and gross margin from
 * Evidence: Sales grew substantially from 2022 to 2024, but gross margin did not sustain its 2022 peak. This demonstrates why sales growth alone is not enough to evaluate business performance.
 
 * Actions:
-       * Review sales, gross profit and gross margin monthly.
-       * Track margin by product, division and region where data is sufficiently reliable.
-       * Flag products with falling margins or rising sales share alongside weak profitability.
-       * Assign a responsible person to investigate material changes and document corrective action.
-       * KPIs to track: Monthly Gross Margin %, Sales Growth %, Gross Profit, Low-Margin Product Count.
-           * Success measure: Investigate material margin deterioration within an agreed review period and track whether corrective actions improve profitability.
+   * Review sales, gross profit and gross margin monthly.
+   * Track margin by product, division and region where data is sufficiently reliable.
+   * Flag products with falling margins or rising sales share alongside weak profitability.
+   * Assign a responsible person to investigate material changes and document corrective action.
+   * KPIs to track: Monthly Gross Margin %, Sales Growth %, Gross Profit, Low-Margin Product Count.
+        * Success measure: Investigate material margin deterioration within an agreed review period and track whether corrective actions improve profitability.
