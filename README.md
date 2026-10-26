@@ -13,3 +13,13 @@ This project analyzes business sales, costs, gross profit, and gross margin from
 * Review outliers and document data-quality limitations.
 * Model hypothetical cost-reduction scenarios.
 * Build an interactive Power BI dashboard and provide business recommendations.
+### Tools & Technologies
+    * Tool
+    * Python
+    * Liberarys
+    * Jupyter Notebook
+    * Power BI
+    * CSV / Excel
+    * GitHub
+### Dataset
+    The dataset includes fields such as Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Country/Region, City, State/Province, Division, Region,       Product ID, Product Name, Sales, Units, Gross Profit, and Cost.
