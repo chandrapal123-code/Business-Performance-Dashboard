@@ -94,25 +94,25 @@ This project analyzes business sales, costs, gross profit, and gross margin from
       * Success measure: Improve margin while maintaining sales volume and customer demand. Set a specific target after reviewing product-level economics.
 
 ### Launch a targeted cost-efficiency review
-   * Goal: Reduce avoidable costs without damaging product quality or sales.
+    * Goal: Reduce avoidable costs without damaging product quality or sales.
  * Evidence: Your cost-reduction scenarios estimate that a 5% reduction in the reported 2024 cost base could produce approximately $800.87 in savings, assuming sales remain constant.
 
 * Actions:
-* Investigate the largest cost contributors first.
-* Review supplier pricing, purchasing terms, waste, and production or distribution costs only where relevant data is available.
-* Pilot a realistic cost-reduction initiative before applying it across the business.
-* Compare actual savings against the scenario estimate.
-* KPIs to track: Total Cost, Cost as % of Sales, Gross Profit, Gross Margin %.
-     * Success measure: Deliver verified savings without reducing sales, product quality, or customer satisfaction. The 5% scenario is a test case, not a guaranteed outcome.
+    * Investigate the largest cost contributors first.
+    * Review supplier pricing, purchasing terms, waste, and production or distribution costs only where relevant data is available.
+    * Pilot a realistic cost-reduction initiative before applying it across the business.
+    * Compare actual savings against the scenario estimate.
+    * KPIs to track: Total Cost, Cost as % of Sales, Gross Profit, Gross Margin %.
+         * Success measure: Deliver verified savings without reducing sales, product quality, or customer satisfaction. The 5% scenario is a test case, not a                 guaranteed outcome.
 
 ### Establish margin monitoring and review triggers
-  * Goal: Detect margin deterioration early instead of reacting after it occurs.
+    * Goal: Detect margin deterioration early instead of reacting after it occurs.
 * Evidence: Sales grew substantially from 2022 to 2024, but gross margin did not sustain its 2022 peak. This demonstrates why sales growth alone is not enough to evaluate business performance.
 
 * Actions:
- * Review sales, gross profit and gross margin monthly.
- * Track margin by product, division and region where data is sufficiently reliable.
- * Flag products with falling margins or rising sales share alongside weak profitability.
- * Assign a responsible person to investigate material changes and document corrective action.
- * KPIs to track: Monthly Gross Margin %, Sales Growth %, Gross Profit, Low-Margin Product Count.
-     * Success measure: Investigate material margin deterioration within an agreed review period and track whether corrective actions improve profitability.
+       * Review sales, gross profit and gross margin monthly.
+       * Track margin by product, division and region where data is sufficiently reliable.
+       * Flag products with falling margins or rising sales share alongside weak profitability.
+       * Assign a responsible person to investigate material changes and document corrective action.
+       * KPIs to track: Monthly Gross Margin %, Sales Growth %, Gross Profit, Low-Margin Product Count.
+           * Success measure: Investigate material margin deterioration within an agreed review period and track whether corrective actions improve profitability.
