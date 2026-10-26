@@ -64,3 +64,12 @@ This project analyzes business sales, costs, gross profit, and gross margin from
                      | 2022 | $29,002.65 | $19,209.06 | 66.23% |
                      | 2023 | $36,859.32 | $24,340.58 | 66.04% |
                      | 2024 | $46,968.11 | $30,950.79 | 65.90% |
+* From 2022 to 2024, sales increased by approximately 61.94% and gross profit increased by approximately 61.13%. Gross margin fell from 66.23% to 65.90%, a decrease of 0.33 percentage points. This means sales and gross profit grew, while gross profit as a share of sales declined slightly.
+
+### Product-level findings
+   * Kazookles: Reported sales of $1,205.75, gross profit of $92.75 and margin of 7.69%. Verify aggregation and filters before treating this as a final finding.
+   * Chocolate division: Reported gross margin of approximately 67.45%.
+   * Other division: Reported gross margin of approximately 44.84%.
+   * Lickable Wallpaper: Reported sales share increased from 2.76% in 2022 to 6.22% in 2024, with a reported margin of 50%. Validate these figures and the mix          calculation before concluding that this product contributed to the overall margin change
+
+  
