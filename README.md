@@ -50,8 +50,17 @@ This project analyzes business sales, costs, gross profit, and gross margin from
 * Power BI dashboard
    * Presented KPI cards, annual and monthly trends, product profitability, product-mix comparisons and cost scenarios.
 ### Key Findings
-        | Metric | Reported value |
-       | Total Sales | $141,783.63 |
-       | Total Cost | $48,340.83 |
-       | Total Gross Profit | $93,442.80 |
-       | Overall Gross Margin | Approximately 65.91% |
+   * Overall performance
+
+                | Metric | Reported value |
+                | Total Sales | $141,783.63 |
+                | Total Cost | $48,340.83 |
+                | Total Gross Profit | $93,442.80 |
+                | Overall Gross Margin | Approximately 65.91% |
+ * Annual performance
+   
+                     | Year | Sales | Gross Profit | Gross Margin |
+                     | 2021 | $28,953.55 | $18,942.37 | 65.42% |
+                     | 2022 | $29,002.65 | $19,209.06 | 66.23% |
+                     | 2023 | $36,859.32 | $24,340.58 | 66.04% |
+                     | 2024 | $46,968.11 | $30,950.79 | 65.90% |
